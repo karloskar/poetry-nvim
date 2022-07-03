@@ -3,7 +3,7 @@
 I needed a way for VIRTUAL_ENV to be set to the one set by [Poetry](https://python-poetry.org/).
 Mainly to get LSP stuff to work.
 
-Other plugins (see [left_right_arrow-alternatives](#alternatives)) existed but they did not do what I expected. That is probably explained by me being lazy and being curious on how to write a Neovim plugin with Lua.
+Other plugins (see [alternatives](#left_right_arrow-alternatives)) existed but they did not do what I expected. That is probably explained by me being lazy and being curious on how to write a Neovim plugin with Lua.
 
 ## :package: Installation
 
